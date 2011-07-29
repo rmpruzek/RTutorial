@@ -7,6 +7,7 @@ Critical language features are demonstrated with explanations provided in the co
 REFERENCES
 
   http://r-project.org         source for the R language itself
+  http://www.statmethods.net/index.html     One of the best available extensive intros to R  
   http://DrDoane.com/?p=133    dependent sample assessment plot tutorial
   http://RMPruzek.com/?p=58    granova details
 
